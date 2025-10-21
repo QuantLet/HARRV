@@ -14,8 +14,9 @@ See also: HARmodels
 
 Author: Thijs Benschop
 
-Submitted: Thijs Benschop
+Submitted: 20.11.2017
 
 Datafile: simdata.txt
+
 
 Example : 'The realized volatility structure based on the simulated option prices'
